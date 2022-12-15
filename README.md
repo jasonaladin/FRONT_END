@@ -1,2 +1,2 @@
-# REDUX_DEMO
+# FRONT END TECHNOLOGIES
 Created by John Jason Aladin for educational purposes.
